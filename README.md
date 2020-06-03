@@ -21,4 +21,4 @@ The custom encryption used is a fibonacci substitution cipher (each letter incre
 ![image](./example.png)
 
 
-is pasted into the capturedText.txt file included and on exectuting decode.py, the decoded message is printed. 
+is pasted into the `capturedText.txt` file included and on exectuting `decode.py`, the decoded message is printed in the CLI.
